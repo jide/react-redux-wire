@@ -1,6 +1,6 @@
 {
   "name": "react-redux-wire",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Connect components directly without using containers",
   "main": "dist/bundle.js",
   "scripts": {
