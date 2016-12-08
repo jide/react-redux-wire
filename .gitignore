@@ -1,0 +1,10 @@
+# Ignore installed node modules
+node_modules
+
+# Ignore logs
+npm-debug.log
+
+.DS_Store
+
+*.orig
+yarn.lock

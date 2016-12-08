@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "comma-dangle": 0,
+    "brace-style": ["error", "stroustrup"],
+    "jsx-quotes": ["error", "prefer-single"],
+    "react/jsx-space-before-closing": ["off"],
+    "react/jsx-curly-spacing": ["off"],
+    "react/no-multi-comp": ["off"],
+    "react/prefer-stateless-function": ["off"],
+    "arrow-body-style": ["off"],
+    "no-underscore-dangle": ["off"]
+  },
+  "globals": {
+    "__DEV__": true,
+    "expect": true
+  },
+  "env": {
+    "mocha": true
+  }
+}
