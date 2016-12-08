@@ -2,6 +2,8 @@
 
 Wire components directly to redux state without using containers.
 
+You can learn how it works in [this article](https://medium.com/@jidefr/react-redux-wire-redux-without-containers-a4cf521ce5c#.5ei9914js).
+
 ## Installation
 
 ```
